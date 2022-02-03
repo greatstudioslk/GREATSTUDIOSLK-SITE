@@ -2102,18 +2102,3 @@ responsive
   }
 }
 
-.email {
-  color: #afafaf;
-}
-
-.email:hover {
-  color: #4da6e7;
-}
-
-.topic {
-  color: #4da6e7;
-}
-
-.topic:hover {
-  color: #5bb8fa;
-}
