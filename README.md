@@ -1,6 +1,10 @@
 # <div align="center"><a href="https://greatstudioslk.github.io/GREATSTUDIOS-WEBSITE/"><b><i>WELCOME!, TO THE OFFICIAL WEB SITE OF GREATSTUDIOS</i></b></a></div> 
 
-# <div align="center"><img src="Images/GREATSTUDIOSLK.png" width="300px"></div>
+#
+> This is the Official Web Site Of <a href="https://greatstudioslk.github.io/GREATSTUDIOS-WEBSITE/"><b><i>GREATSTUDIOS</i></b></a>
+
+#
+<div align="center"><img src="Images/GREATSTUDIOSLK.png" width="300px"></div>
 
 # [![Contributors](https://img.shields.io/badge/Contributors-2-lawngreen.svg?style=flat-square)](#contributors-)
 
