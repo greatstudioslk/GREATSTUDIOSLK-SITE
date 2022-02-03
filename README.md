@@ -16,8 +16,8 @@ Available at :  <b><i>[https://greatstudioslk.github.io/GREATSTUDIOSLK-SITE/](ht
 - Clone your forked repository
     
     ```
-    git clone https://github.com/USERNAME/GREATESTUDIOS-WEBSITE.git
-    cd GREATESTUDIOS-WEBSITE
+    git clone https://github.com/USERNAME/GREATSTUDIOSLK-SITE.git
+    cd GREATSTUDIOSLK-SITE
     ```
      
 #
