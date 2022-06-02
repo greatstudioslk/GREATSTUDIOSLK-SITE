@@ -8,7 +8,7 @@
 
 # [![Contributors](https://img.shields.io/badge/Contributors-2-lawngreen.svg?style=flat-square)](#contributors-)
 
-Available at :  <b><i>[https://greatstudioslk.github.io/GREATSTUDIOSLK-SITE/](https://greatstudioslk.github.io/GREATSTUDIOSLK-SITE/)</i></b>
+Available at :  <b><i>[geratstudios.org.lk)</i></b>
 
 #
 # Run Locally
